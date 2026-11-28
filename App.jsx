@@ -372,11 +372,11 @@ function App() {
                                 height: '20px',
                                 alignSelf: 'center',
                                 justifySelf: 'center',
-                                backgroundColor: '#00FFFF',
-                                border: 'solid 2px #00CCCC',
+                                backgroundColor: '#00DDDD',
+                                border: 'solid 2px #00AAAA',
                                 borderRadius: '5px',
                                 textAlign: 'center',
-                                boxShadow: '0 0 10px #00CCCC',
+                                boxShadow: '0 0 10px #00AAAA',
                                 margin: 0,
                             }} onClick={() => setShowDelPopup(true)}>Undo</p>
                         </div>
